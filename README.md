@@ -8,7 +8,9 @@ To find the official dataset templates and related research papers, visit  [Supe
 The code can be easily implemented and used with custom datasets and parameters.
 
 The code and datasets are for:
-1. Recurrent Neural Networks
-2. Self Organizing Maps (SOM)
-3. Boltzmann Machines (BM)
-4. AutoEncoders (AE)
+1. Artificial Neural Networks (ANN)
+2. Convolutional Neural Networks (CNN)
+3. Recurrent Neural Networks (RNN)
+4. Self Organizing Maps (SOM)
+5. Boltzmann Machines (BM)
+6. AutoEncoders (AE)
